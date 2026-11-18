@@ -37,6 +37,7 @@ fun PantallaPrincipal() {
         when (seleccionado) {
             1 -> Ejercicio1()
             2 -> Ejercicio2()
+            3 -> Ejercicio3()
         }
     }
 }
